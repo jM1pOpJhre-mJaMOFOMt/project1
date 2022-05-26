@@ -1,3 +1,17 @@
+/* Project 1
+
+Authors: Ryan Trust, Preston Jackson
+Date: 5/26/2022
+Course: APCSA, Woldseth, Tri 3 2022
+
+Description: The user is prompted for inputs and the program makes them a pizza. 
+
+Preconditions: User inputs for selection of toppings
+
+Postconditions: A personalized pizza is created. 
+*********************************************************************************/
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
